@@ -64,7 +64,7 @@ document.addEventListener("keydown", function (event){
             calculate()
             break;
         case "Escape":
-            deleteLast()
+            clearDisplay()
             break;
     }
 })
